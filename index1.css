@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(3, 3, 3);
+}
+
+.logo h2{
+    color: white;
+    margin-left: 8px;
+    padding-top: 10px;
+    font-size: 17px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+   
+    
+    
+
+.logo{
+    background-color: rgb(169, 57, 57);
+    width: 100px;
+    position: relative; bottom: 700px; left: 10px;
+    border-radius: 20px;
+    display: flex;
+    width: 120px;
+    height: 40px;
+    border: 0.5px solid rgb(184, 89, 89);
+    background-color: rgba(0, 0, 0, 0.10);
+}
+nav{
+ 
+    position: relative; bottom: 739px; left: 200px;
+   
+    border-radius: 20px;
+    width: 700px;
+    height: 40px;
+    border: 0.5px solid rgb(184, 89, 89);
+background-color: rgba(0, 0, 0, 0.10); /* Warna hitam dengan transparansi 50% */
+}
+nav ul{
+    list-style-type: none;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+nav li{
+    display: inline;
+    margin: 13px;
+    position: relative; top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.gi{
+    color: white;
+    font-size: 90px;
+    position: relative; bottom: 430px; margin-left: 40px;
+    margin-top: -200px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ri{
+     color: white;
+    font-size: 30px;
+    position: relative; bottom: 400px; margin-left: 50px;
+    margin-top: -30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+.w1{
+  color: rgb(239, 230, 230);
+    font-size: 100px;
+    margin-top: -30px;
+    position: relative; bottom: 330px; margin-left: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;   
+}
+.w2{
+     color: rgb(214, 12, 12);
+    font-size: 100px;
+    margin-top: -30px;
+    position: relative; bottom: 330px; margin-left: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;   
+}
+.w3{
+    color: white;
+   margin-top: -150px;
+    font-size: 25px; position: relative; bottom: 160px; margin-left: 50px;
+}
+.w4{
+    color: white;
+    background-color: rgb(215, 46, 46);
+    width: 160px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    position: relative; bottom: 100px; margin-left: 40px;
+    font-size: 17px;
+}
+.w4 a{
+    text-decoration: none;
+    color: white;
+}
+  .btn-capture { padding: 12px 24px; font-size: 16px; background-color: #ff4757; color: white; border: none; border-radius: 25px; font-weight: bold; margin-top: 15px; cursor: pointer; }
